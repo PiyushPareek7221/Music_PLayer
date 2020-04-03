@@ -1,0 +1,122 @@
+
+.body1{
+	background: linear-gradient(to bottom right, #f8ece1, #f6ece1);
+}
+.MainBox{
+	width: 1465px;
+	height: 530px;
+	z-index: auto;
+	background: #fbfbfb;
+	margin: 130px 30px;
+}
+.Bar1, .Bar2, .Bar3 {
+  width: 30px;
+  height: 3px;
+  background-color: #333;
+  margin: 5px;
+  transition: 0.4s;
+}
+
+.menu_button {
+  display: inline-block;
+  float: left;
+  cursor: pointer;
+  z-index: auto;
+  margin: 30px 55px;
+}
+
+.Search input[type=text] {
+	padding: 6px;
+	border: none;
+	border-radius: 500px;
+}
+
+.Search {
+	float: right;
+	display: inline;
+	margin-top: 30px;
+	margin-right: 60px;
+}
+
+.Search button {
+	float: left;
+	padding: 5px;
+	font: 17px;
+	border: none;
+	cursor: pointer;
+	background: #fbfbfb;
+}
+
+.Player {
+	position: fixed;
+	width: 100%;
+	left: 0;
+	bottom: -100px;
+	color: red;
+	height: 200px;
+	/*display: inline;
+	vertical-align: middle;*/
+	font-size: 30px;
+	padding: 0; 
+	/*text-align: center;*/
+	z-index: auto;
+	background-color: rgb(0,0,0,0.2);
+	/*border-radius: 500px;*/
+	border: none;
+	border-radius: 600px;
+	margin-top: 20px;
+
+}
+.Player_Buttons_Back, .Player_Buttons_loop, .Player_Buttons_Next, .Player_Buttons_Play, .Player_Buttons_Shuffle{
+	margin-top: 20px;
+
+}
+.Player_Buttons_Back{
+	margin-left: 650px;
+	display: inline-block;
+	position: fixed;
+
+} 
+.Player_Buttons_loop{
+	margin-left: 550px;
+	display: inline-block;
+	position: fixed;
+}
+.Player_Buttons_Next{
+	display: inline-block;
+	margin-left: 850px;
+	position: fixed;
+	
+}
+.Player_Buttons_Play{
+	margin-left: 750px;
+	position: fixed;
+	display: inline-block;
+}
+.Player_Buttons_Shuffle{
+	margin-left: 950px;
+	position: fixed;
+	display: inline-block;	
+}
+.one{
+   width: 50px;
+   display: inline-block;
+   float: left;
+	
+}
+.two{
+   width: 50px;
+   display: inline-block;
+}
+.three{
+   width: 50px;
+   display: inline-block;
+}
+.four{
+   width: 50px;
+   display: inline-block;
+}
+.five{
+   width: 50px;
+   display: inline-block;
+}

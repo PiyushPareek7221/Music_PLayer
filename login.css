@@ -1,0 +1,58 @@
+.body2{
+	background-color:black;
+	font-family: roboto;
+}
+.title{
+	text-align: center;
+	font-size: 27px;
+	margin-top: 150px;
+	color: white;
+}
+.input_field1{
+	width: 340px;
+	margin-left: 585px;
+	border-bottom: thin solid white;
+}
+.input_field2{
+	width: 340px;
+	margin-left: 585px;
+	border-bottom: thin solid white;
+}
+.input{
+	width: 320px;
+	color: white;
+	font-size: 20px;
+	padding: 8px 10px 8px 10px; 
+	border-style: hidden;
+	background-color: transparent; 
+}
+.btnmain{
+	margin-left: 585px;
+}
+.btn{
+	width: 340px;
+    color: black;
+    margin-top: 14px;
+    padding-top:5px;
+    padding-bottom:5px;  
+    background-color: white;
+    font-size: 20px;
+    border-style: hidden;
+}
+.footer{
+	margin-top: 230px;
+}
+.Create{
+	text-align: center;
+	text-decoration:none; 
+	font-size: 12px;
+	color: white;
+}
+.Back_Page_Button{
+	background-color: black;
+	border-style: hidden;
+}
+.Back_Button_Text{
+	color: white;
+	text-decoration: none;
+}
