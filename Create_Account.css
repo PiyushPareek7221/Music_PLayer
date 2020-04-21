@@ -5,9 +5,11 @@
 .title{
 	text-align: center;
 	font-size: 27px;
-	margin-top: 250px;
+	margin-top: 130px;
 	color: white;
-	position: relative;
+}
+.main{
+	padding-bottom: 40px;
 }
 .input_field1{
 	width: 340px;
@@ -19,16 +21,32 @@
 	margin-left: 585px;
 	border-bottom: thin solid white;
 }
+.input_field3{
+	width: 340px;
+	margin-left: 585px;
+	border-bottom: thin solid white;
+}
+.input_field4{
+	width: 340px;
+	margin-left: 585px;
+	border-bottom: thin solid white;
+}
+.input_field5{
+	width: 340px;
+	margin-left: 585px;
+	border-bottom: thin solid white;
+}
 .input{
 	width: 320px;
 	color: white;
 	font-size: 20px;
-	padding: 8px 10px 8px 10px; 
+	padding:16px; 
 	border-style: hidden;
 	background-color: transparent; 
 }
 .btnmain{
 	margin-left: 585px;
+	margin-top: 50px;
 }
 .btn{
 	width: 340px;
@@ -41,7 +59,7 @@
     border-style: hidden;
 }
 .footer{
-	margin-top: 270px;
+	margin-top: 230px;
 }
 .Create{
 	text-align: center;
